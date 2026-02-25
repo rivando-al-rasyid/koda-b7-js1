@@ -1,9 +1,8 @@
-
 let who = {am : {i : "rivando al Rasyid"} }
 console.log(who.am.i)
 
 
-let Hello = {World : "Hello World"} 
+let Hello = {World : "Hello World"}
 console.log(Hello.World)
 
 let obj = {str : [1,[1,"fazztrack",[1,"lets","go" ,{koda : [{tech :  {academy:"Koda Tech Academy"}}]}]]] }
